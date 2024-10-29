@@ -1,0 +1,28 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg-info/
+dist/
+build/
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.orig
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Python egg files
+*.egg
+*.egg-info
